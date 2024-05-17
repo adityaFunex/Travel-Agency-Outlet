@@ -176,6 +176,6 @@ document.getElementById('signupForm').addEventListener('submit', function (event
     }
 
     // If validation passes, redirect to thankYou.html
-    window.location.href = 'https://adityafunex.github.io/Travel-Agency-Outlet/thankYou.html';
+    window.location.href = 'thankYou.html';
 });
 
