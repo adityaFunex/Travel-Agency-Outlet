@@ -1,0 +1,1869 @@
+@media screen and (max-width:1800px) {
+    .pBlock {
+        padding-block: 60px;
+    }
+
+    .bannerCover {
+        height: 600px;
+    }
+
+    .banner-heading h1 {
+        font-size: 55px;
+        line-height: 62px;
+        margin-bottom: 55px;
+    }
+
+    .banner-heading p {
+        font-size: 35px;
+        line-height: 45px;
+        margin-bottom: 70px;
+    }
+
+    .navbar {
+        padding-block: 38px;
+    }
+
+    a.logo img,
+    a.footerlogo img {
+        height: 55px;
+    }
+
+    .service-wrapper::after {
+        width: 680px;
+        height: 640px;
+        top: -40%;
+        right: 0px;
+        z-index: -1;
+    }
+
+    .section-heading h2 {
+        font-size: 53px;
+        margin-bottom: 12px;
+    }
+
+    .serviceBox {
+        padding: 20px;
+        height: 100%;
+        padding-top: 50px;
+    }
+
+    .serviceBox-icon {
+        width: 95px;
+        height: 95px;
+        top: -48px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    span.serviceBox-iconImage {
+        width: 80px;
+        height: 80px;
+    }
+
+    span.serviceBox-iconImage img {
+        height: 37px;
+    }
+
+    .pBlock-50 {
+        padding-block: 40px;
+    }
+
+    section.destination-wrapper::before {
+        width: 20%;
+        height: 72%;
+        bottom: 11%;
+        left: 0;
+        z-index: -1;
+    }
+
+    span.destinationPlace-name {
+        border-radius: 30px;
+        padding-block: 12px;
+        font-size: 22px;
+        margin-bottom: 14px;
+    }
+
+    .destinationPlace-box {
+        border-radius: 20px;
+        height: 400px;
+    }
+
+    .pBlock-100 {
+        padding-block: 80px;
+    }
+
+    .holidayBanner-cover {
+        height: 320px;
+        border-radius: 20px;
+        z-index: 9;
+    }
+
+    .topFooter {
+        padding-block: 60px;
+    }
+
+    /* Sign up Page Responsive Css */
+    .signUp-contentBox p {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .signUp-contentCover {
+        border-radius: 20px;
+        width: 65%;
+        bottom: 20%;
+    }
+
+    .signUp-contentBox {
+        padding: 80px 40px;
+    }
+
+    .signUp-contentBox::before {
+        width: 140px;
+        height: 140px;
+        top: -70px;
+        right: -70px;
+    }
+
+    /* Thank You Page Responsive Css */
+    a.customLogo img {
+        height: 75px;
+    }
+
+    a.customLogo {
+        margin-bottom: 35px;
+    }
+
+    .thankyou-containerBox h1 {
+        font-size: 50px;
+        margin-bottom: 8px;
+    }
+
+    span.rightTick {
+        width: 125px;
+        height: 125px;
+        margin-bottom: 30px;
+    }
+
+    a.customBack {
+        border-radius: 30px;
+        background: #FFF;
+        padding: 13px 70px;
+        color: #DF6951;
+        text-align: center;
+        font-size: 23px;
+        line-height: normal;
+    }
+     /* log in Page Responsive Css */
+     .loginWrapper {
+        height: calc(100% - 135px);
+    }
+    p#loginError {
+        font-size: 27px;
+    }
+}
+
+@media screen and (max-width:1680px) {
+    .navbar {
+        padding-block: 30px;
+    }
+
+    a.logo img,
+    a.footerlogo img {
+        height: 50px;
+    }
+
+    .pBlock {
+        padding-block: 50px;
+    }
+
+    .banner-heading h1 {
+        font-size: 45px;
+        line-height: 55px;
+        margin-bottom: 45px;
+    }
+
+    .banner-heading p {
+        font-size: 29px;
+        line-height: 39px;
+        margin-bottom: 60px;
+    }
+
+    .banner-heading .custom-btn {
+        padding: 8px 18px;
+        font-size: 17px;
+    }
+
+    .section-heading h2 {
+        font-size: 45px;
+        margin-bottom: 12px;
+    }
+
+    .bannerCover {
+        height: 500px;
+    }
+
+    .serviceBox-icon {
+        width: 85px;
+        height: 85px;
+        top: -40px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    span.serviceBox-iconImage {
+        width: 75px;
+        height: 75px;
+    }
+
+    span.serviceBox-iconImage img {
+        height: 35px;
+    }
+
+    .serviceBox {
+        padding: 15px;
+        height: 100%;
+        padding-top: 36px;
+    }
+
+    .serviceBox-content h3 {
+        font-size: 18px;
+        margin-bottom: 8px;
+    }
+
+    span.destinationPlace-name {
+        border-radius: 25px;
+        padding-block: 10px;
+        font-size: 18px;
+        margin-bottom: 14px;
+    }
+
+    .destinationPlace-box {
+        border-radius: 20px;
+        height: 350px;
+    }
+
+    .visitTicket-btn {
+        border-radius: 20px;
+        font-size: 18px;
+        padding: 10px 15px;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: -16px;
+    }
+
+    .pBlock-100 {
+        padding-block: 50px;
+    }
+
+    .holidayBanner-cover {
+        height: 300px;
+        border-radius: 20px;
+        z-index: 9;
+    }
+
+    .section-heading span {
+        border-radius: 25px;
+        padding: 10px 20px;
+        margin-bottom: 8px;
+        font-size: 18px;
+    }
+
+    .testmonialProfile {
+        width: 175px;
+        height: 175px;
+        border-radius: 50%;
+        top: 50%;
+        left: -88px;
+        transform: translateY(-50%);
+    }
+
+    .testmonialProdile-imageBox {
+        width: 140px;
+        height: 140px;
+        border-radius: 50%;
+        background-color: #FBD56C;
+    }
+
+    .testmonialProdile-imageBox img {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+    }
+
+    section.testimonial-wrapper::after {
+        width: 900px;
+        height: 900px;
+        top: -25%;
+        right: 0px;
+        z-index: -1;
+    }
+
+    section.testimonial-wrapper::before {
+        width: 400px;
+        height: 400px;
+        top: 60%;
+        right: 0px;
+        transform: translateY(-40%);
+        z-index: -1;
+    }
+
+    .topFooter {
+        padding-block: 50px;
+    }
+
+    /* Signup Page Responsive Css */
+    .mainUser::before {
+        width: 800px;
+        height: 770px;
+    }
+
+    .signUp-contentBox p {
+        font-size: 21px;
+        line-height: 28px;
+    }
+
+    .signUp-contentBox p+p {
+        margin-top: 20px;
+    }
+
+    .signUp-contentBox {
+        padding: 60px 35px;
+    }
+
+    .signUp-contentBox::before {
+        width: 124px;
+        height: 124px;
+        top: -62px;
+        right: -62px;
+    }
+
+    .signUp-contentCover {
+        border-radius: 20px;
+        width: 70%;
+        bottom: 20%;
+    }
+
+    .formCheck-box {
+        margin-bottom: 40px;
+    }
+
+    button.customForm-btn {
+        font-size: 20px;
+        height: 50px;
+        border-radius: 30px;
+        margin-bottom: 14px;
+    }
+
+    span.loginAccount {
+        gap: 0px 5px;
+        font-size: 16px;
+        margin-bottom: 40px;
+    }
+
+    /* Thank You Page Responsive Css */
+    section.thankYou-wrapper {
+        height: 100vh;
+        padding-block: 110px;
+    }
+
+    .thankyou-containerBox h1 {
+        font-size: 40px;
+        margin-bottom: 8px;
+    }
+
+    .thankyou-containerBox p {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+
+    span.rightTick {
+        width: 110px;
+        height: 110px;
+        margin-bottom: 30px;
+    }
+
+    section.thankYou-wrapper::after {
+        width: 290px;
+        height: 298px;
+        top: 0px;
+        right: 0px;
+    }
+
+    section.thankYou-wrapper::before {
+        width: 350px;
+        height: 340px;
+        bottom: 0px;
+        left: 0px;
+    }
+
+    a.customBack {
+        border-radius: 30px;
+        padding: 12px 65px;
+        font-size: 21px;
+        line-height: normal;
+    }
+    /* log in Page Responsive Css */
+    .loginWrapper {
+        height: calc(100% - 114px);
+    }
+    p#loginError {
+        font-size: 27px;
+    }
+}
+
+@media screen and (max-width:1480px) {
+    .navbar {
+        padding-block: 25px;
+    }
+
+    a.logo img,
+    a.footerlogo img {
+        height: 43px;
+    }
+
+    .navbarLink-list>li>a.nav-link {
+        font-size: 13px;
+        gap: 0px 20px;
+        padding: 9px 13px;
+        border-radius: 20px;
+    }
+
+    .custom-btn {
+        font-size: 13px;
+        padding: 8px 20px;
+        border-radius: 20px;
+    }
+
+    .banner-heading h1 {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 35px;
+    }
+
+    .banner-heading p {
+        font-size: 22px;
+        line-height: 32px;
+        margin-bottom: 45px;
+    }
+
+    .bannerCover {
+        height: 450px;
+    }
+
+    .pBlock {
+        padding-block: 45px;
+    }
+
+    .section-heading h2 {
+        font-size: 40px;
+        margin-bottom: 12px;
+    }
+
+    .service-wrapper::after {
+        width: 580px;
+        height: 600px;
+        top: -40%;
+        right: 0px;
+        z-index: -1;
+    }
+
+    .serviceBox {
+        padding: 10px;
+        height: 100%;
+        padding-top: 36px;
+    }
+
+    .serviceBox-icon {
+        width: 75px;
+        height: 75px;
+        top: -37px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    span.serviceBox-iconImage {
+        width: 65px;
+        height: 65px;
+    }
+
+    span.serviceBox-iconImage img {
+        height: 30px;
+    }
+
+    .serviceBox-content {
+        margin-top: 15px;
+    }
+
+    .serviceBox-content h3 {
+        font-size: 17px;
+        margin-bottom: 8px;
+    }
+
+    .serviceBox-content p {
+        color: #595959;
+        font-size: 15px;
+        line-height: 23px;
+    }
+
+    span.destinationPlace-name {
+        border-radius: 20px;
+        padding-block: 9px;
+        font-size: 16px;
+        margin-bottom: 12px;
+    }
+
+    section.destination-wrapper::before {
+        width: 17%;
+        height: 65%;
+        bottom: 11%;
+        left: 0;
+        z-index: -1;
+    }
+
+    .destinationPlace-box {
+        border-radius: 20px;
+        height: 320px;
+    }
+
+    .visitTicket-btn {
+        border-radius: 20px;
+        font-size: 16px;
+        padding: 10px 15px;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: -17px;
+    }
+
+    .pBlock-100 {
+        padding-block: 45px;
+    }
+
+    section.testimonial-wrapper::after {
+        width: 800px;
+        height: 850px;
+        top: -25%;
+        right: 0px;
+        z-index: -1;
+    }
+
+    .topFooter {
+        padding-block: 45px;
+    }
+
+    /* Sign Up Page Responsive Css */
+    .mainUser::before {
+        width: 675px;
+        height: 540px;
+    }
+
+    .signUp-contentCover {
+        border-radius: 20px;
+        width: 80%;
+        bottom: 20%;
+    }
+
+    .mainUser::after {
+        width: 500px;
+        height: 280px;
+    }
+
+    input.formCheck-boxControl {
+        width: 20px;
+        height: 20px;
+    }
+
+    .signUp-Option {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 50px;
+    }
+
+    .mainUser-cover {
+        margin-inline: -15px;
+    }
+
+    .mainUser-content,
+    .mainUser-formContainer {
+        width: 50%;
+        padding-inline: 15px;
+    }
+
+    .customCol-12+.customCol-12 .formContainer {
+        margin-top: 20px;
+    }
+
+    /* Thank You Page Responsive Css */
+    a.customLogo img {
+        height: 70px;
+    }
+
+    a.customLogo {
+        margin-bottom: 30px;
+    }
+
+    .thankyou-containerBox h1 {
+        font-size: 35px;
+        margin-bottom: 8px;
+    }
+
+    .thankyou-containerBox p {
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+
+    span.rightTick {
+        width: 100px;
+        height: 100px;
+        margin-bottom: 25px;
+    }
+
+    section.thankYou-wrapper::after {
+        width: 250px;
+        height: 255px;
+        top: 0px;
+        right: 0px;
+    }
+
+    section.thankYou-wrapper::before {
+        width: 325px;
+        height: 318px;
+        bottom: 0px;
+        left: 0px;
+    }
+
+    section.thankYou-wrapper {
+        height: 100vh;
+        padding-block: 80px;
+    }
+     /* log in Page Responsive Css */
+     .loginWrapper {
+        height: calc(100% - 97px);
+    }
+    p#loginError {
+        font-size: 21px;
+    }
+}
+
+@media screen and (max-width:1200px) {
+
+    a.logo img,
+    a.footerlogo img {
+        height: 39px;
+    }
+
+    .navbar {
+        padding-block: 20px;
+    }
+
+    .navbarLink-list>li>a.nav-link {
+        font-size: 12px;
+        gap: 0px 18px;
+        padding: 7px 12px;
+        border-radius: 20px;
+    }
+
+    .navbarLink-list>li>a.nav-link::after,
+    .dropDown-btn::after {
+        width: 17px;
+        height: 17px;
+        border-radius: 50%;
+        font-size: 13px;
+    }
+
+    .banner-heading h1 {
+        font-size: 35px;
+        line-height: 45px;
+        margin-bottom: 30px;
+    }
+
+    .banner-heading p {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 40px;
+    }
+
+    .banner-heading .custom-btn {
+        padding: 7px 16px;
+        font-size: 16px;
+    }
+
+    .section-heading h2 {
+        font-size: 34px;
+        margin-bottom: 12px;
+    }
+
+    .service-wrapper::after {
+        width: 370px;
+        height: 540px;
+        top: -28%;
+        right: 0px;
+        z-index: -1;
+    }
+
+    .serviceBox-content h3 {
+        font-size: 15px;
+        margin-bottom: 8px;
+    }
+
+    .serviceBox-content p {
+        color: #595959;
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    .serviceBox-icon {
+        width: 65px;
+        height: 65px;
+        top: -32px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    span.serviceBox-iconImage {
+        width: 55px;
+        height: 55px;
+    }
+
+    span.serviceBox-iconImage img {
+        height: 27px;
+    }
+
+    .serviceBox-content {
+        margin-top: 10px;
+    }
+
+    .section-heading p br {
+        display: none;
+    }
+
+    .dropdownBox {
+        width: 30%;
+        flex: 0 0 auto;
+    }
+
+    section.destination-wrapper::before {
+        width: 22%;
+        height: 63%;
+        bottom: 11%;
+        left: 0;
+        z-index: -1;
+    }
+
+    span.destinationPlace-name {
+        border-radius: 20px;
+        padding-block: 9px;
+        font-size: 15px;
+        margin-bottom: 12px;
+    }
+
+    .destinationPlace-box {
+        border-radius: 20px;
+        height: 280px;
+    }
+
+    .visitTicket-btn {
+        border-radius: 20px;
+        font-size: 15px;
+        padding: 9px 15px;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: -15px;
+        min-width: 122px;
+    }
+
+    .pBlock-100 {
+        padding-block: 40px;
+    }
+
+    .holidayBanner-cover {
+        height: 250px;
+        border-radius: 20px;
+        z-index: 9;
+    }
+
+    /* Sign Up Page Responsive Css */
+    .signUp-contentBox {
+        padding: 50px 31px;
+    }
+
+    .signUp-contentBox p {
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+    .signUp-contentBox p+p {
+        margin-top: 16px;
+    }
+
+    .signUp-contentBox::before {
+        width: 100px;
+        height: 100px;
+        top: -50px;
+        right: -50px;
+    }
+
+    .mainUser::before {
+        width: 53%;
+        height: 540px;
+    }
+
+    /* Thank You Page Responsive Css */
+    a.customLogo img {
+        height: 60px;
+    }
+
+    .thankyou-containerBox h1 {
+        font-size: 30px;
+        margin-bottom: 8px;
+    }
+
+    a.customLogo {
+        margin-bottom: 25px;
+    }
+
+    span.rightTick {
+        width: 90px;
+        height: 90px;
+        margin-bottom: 25px;
+    }
+
+    a.customBack {
+        border-radius: 30px;
+        padding: 11px 60px;
+        font-size: 18px;
+        line-height: normal;
+    }
+
+    section.thankYou-wrapper::after {
+        width: 220px;
+        height: 226px;
+        top: 0px;
+        right: 0px;
+    }
+
+    section.thankYou-wrapper::before {
+        width: 280px;
+        height: 273px;
+        bottom: 0px;
+        left: 0px;
+    }
+     /* log in Page Responsive Css */
+     .loginWrapper {
+        height: calc(100% - 83px);
+    }
+
+}
+
+@media screen and (max-width:1024px) {
+    .container {
+        max-width: 100%;
+    }
+    p#loginError {
+        font-size: 24px;
+    }
+    p#loginError {
+        font-size: 22px;
+    }
+}
+
+@media screen and (max-width:992px) {
+    .menuBox {
+        display: none !important;
+    }
+
+    li.dropdown-item:has(a.nav-link:hover) .dropdown-menuBox {
+        display: block;
+        position: absolute;
+        width: max-content;
+    }
+
+
+    .menuButton {
+        display: block;
+        border: 0px;
+        background-color: transparent;
+        color: #FBD56C;
+        position: absolute;
+        top: 50%;
+        right: 0px;
+        transform: translateY(-50%);
+        cursor: pointer;
+    }
+
+    .menuButton .closeCollapse {
+        display: none;
+    }
+
+    .menuButton span {
+        font-size: 29px;
+    }
+
+    nav.navbar {
+        position: relative;
+    }
+
+    .headerCollapse-btnActive .closeCollapse {
+        display: inline-block !important;
+    }
+
+    .headerCollapse-btnActive .openCollapse {
+        display: none;
+    }
+
+    .collapseMenu-active {
+        position: absolute;
+        display: flex !important;
+        flex-direction: column;
+        align-items: flex-end;
+        background-color: #fff;
+        padding: 10px;
+        top: 83px;
+        z-index: 999;
+        right: 0px;
+    }
+
+    .collapseMenu-active ul.navbarLink-list {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px 0px;
+        margin-top: 15px;
+    }
+
+
+
+
+    .dropDownActive {
+        display: block !important;
+    }
+
+
+
+    header a.nav-link {
+        color: #563DA2 !important;
+        background-color: transparent !important;
+        padding-inline: 0px !important;
+        position: relative;
+    }
+
+    .navbarLink-list>li>a.nav-link::after {
+        width: fit-content;
+        height: fit-content;
+        color: #FBD56C;
+        background-color: transparent;
+    }
+
+    li.nav-item:has(.dropDownActive) a.nav-link::after {
+        transform: rotate(-90deg);
+    }
+
+    a.nav-link.dropdown-link {
+        font-size: 12px;
+    }
+
+    section.mobNav {
+        display: block !important;
+        padding-top: 35px;
+    }
+
+    /* .navbarLink-list>li>a.nav-link {
+        padding: 0px 0px;
+        width: 100% !important;
+        display: flex !important;
+        justify-content: space-between;
+    } */
+
+    li.dropdown-item {
+        position: relative;
+    }
+
+    .mobNav-container {
+        display: flex;
+        justify-content: center;
+    }
+
+    .banner-heading h1 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 25px;
+    }
+
+    .banner-heading {
+        padding-inline: 35px;
+        padding-block: 35px;
+    }
+
+    .bannerCover {
+        height: 400px;
+    }
+
+    .pBlock {
+        padding-block: 40px;
+    }
+
+    .banner-heading p {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 30px;
+    }
+
+    .section-heading h2 {
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+
+    .service-wrapper::after {
+        width: 335px;
+        height: 470px;
+        top: -18%;
+        right: 0px;
+        z-index: -1;
+    }
+
+    .serviceWrapper-cover ul {
+        gap: 50px 0px;
+    }
+
+    .serviceWrapper-cover ul li {
+        width: 25%;
+        padding-inline: 9px;
+    }
+
+    section.destination-wrapper::before {
+        width: 25%;
+        height: 49%;
+        bottom: 22%;
+        left: 0;
+        z-index: -1;
+    }
+
+    .destinationPlace-box {
+        border-radius: 20px;
+        height: 220px;
+    }
+
+    section.destination-wrapper::before {
+        width: 25%;
+        height: 55%;
+        bottom: 11%;
+        left: 0;
+        z-index: -1;
+    }
+
+    section.testimonial-wrapper::after {
+        width: 50%;
+        height: 100%;
+        top: 34%;
+        right: 0px;
+        z-index: -1;
+    }
+
+    .testimoinalProfile-content {
+        width: 100%;
+    }
+
+    .testimonialCarousel-box {
+        border-radius: 20px;
+        padding: 30px 40px;
+        display: flex;
+        max-width: 85%;
+        margin-inline: auto;
+        position: relative;
+        justify-content: end;
+    }
+
+    .testmonialProfile {
+        position: static;
+        transform: translateY(0);
+        max-width: 140px;
+        margin-inline: auto;
+        width: 140px;
+        height: 140px;
+    }
+
+    .testmonialProdile-imageBox {
+        width: 130px;
+        height: 130px;
+        border-radius: 50%;
+        background-color: #FBD56C;
+    }
+
+    .testmonialProdile-imageBox img {
+        width: 110px;
+        height: 110px;
+        border-radius: 50%;
+    }
+
+    .testimonialCarousel-box {
+        flex-direction: column;
+    }
+
+    span.testimonialQuote-icon {
+        width: 100%;
+        text-align: center;
+        margin-top: 11px;
+        margin-bottom: 10px;
+    }
+
+    .testimoinalProfile-content {
+        width: 100%;
+        text-align: center;
+    }
+
+    .testimoinalProfile-content p {
+        color: #595959;
+        font-size: 16px;
+        line-height: 23px;
+        margin-bottom: 15px;
+    }
+
+    section.testimonial-wrapper::before,
+    section.testimonial-wrapper::after {
+        display: none;
+    }
+
+    .carousel {
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        padding-block: 40px;
+    }
+
+    a.socialLink {
+        width: 35px;
+        height: 35px;
+        color: #DF6951;
+        font-size: 18px;
+    }
+
+    .footerLogo-container p br {
+        display: none;
+    }
+
+    .footerLogo-container p {
+        font-size: 16px;
+        line-height: 23px;
+        margin-bottom: 50px;
+    }
+
+    .bottomFooter {
+        padding-block: 15px;
+        border-top: 1px solid #fff;
+    }
+
+    button.carouselControl-btn {
+        width: 25px;
+        height: 25px;
+    }
+
+    button.carouselControl-btn span {
+        font-size: 16px;
+    }
+
+    .testimoinalProfile-content h3 {
+        font-size: 18px;
+        margin-bottom: 2px;
+    }
+
+    .moblogin {
+        display: flex;
+        width: 100%;
+        justify-content: flex-start;
+    }
+
+    /* Sign Up Page Responsive Css */
+    .mainUser-content,
+    .mainUser-formContainer {
+        width: 100%;
+        padding-inline: 15px;
+    }
+
+    .signUp-contentCover {
+        border-radius: 20px;
+        width: 50%;
+        bottom: 20%;
+        position: static;
+        margin-block: 50px;
+        max-width: 50%;
+        margin-inline: auto;
+    }
+
+    .mainUser::after {
+        display: none;
+    }
+
+    /* Thank You Page Responsive Css */
+    section.thankYou-wrapper {
+        height: 100vh;
+        padding-block: 45px;
+    }
+
+    section.thankYou-wrapper::after {
+        width: 200px;
+        height: 205px;
+        top: 0px;
+        right: 0px;
+    }
+
+    section.thankYou-wrapper::before {
+        width: 220px;
+        height: 217px;
+        bottom: 0px;
+        left: 0px;
+    }
+
+    section.thankYou-wrapper {
+        padding-block: 45px;
+        height: 100vh;
+        background-size: cover;
+    }
+
+    /* log in Page Responsive Css */
+    .loginWrapper-cover {
+        max-width: 70%;
+        margin-inline: auto;
+        height: 100%;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .navbar {
+        padding-block: 15px;
+    }
+
+    a.logo img,
+    a.footerlogo img {
+        height: 37px;
+    }
+
+    .banner-heading h1 {
+        font-size: 26px;
+        line-height: 36px;
+        margin-bottom: 20px;
+    }
+
+    .banner-heading .custom-btn {
+        padding: 7px 16px;
+        font-size: 15px;
+    }
+
+    .bannerCover {
+        height: 350px;
+    }
+
+    .section-heading h2 {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+
+    .service-wrapper::after {
+        width: 320px;
+        height: 400px;
+        top: -15%;
+        right: 0px;
+        z-index: -1;
+    }
+
+    .service-wrapper .section-heading {
+        margin-bottom: 60px;
+    }
+
+    .serviceWrapper-cover ul li {
+        width: 33.33%;
+        padding-inline: 9px;
+    }
+
+    .section-heading p {
+        font-size: 14px;
+        line-height: 19px;
+        margin-bottom: 26px;
+    }
+
+    .destinationWrapper-cover ul li {
+        width: 33.33%;
+        flex: 0 0 auto;
+        padding-inline: 10px;
+    }
+
+    section.destination-wrapper::before {
+        display: none;
+    }
+
+    .destinationWrapper-cover ul {
+        gap: 38px 0px;
+    }
+
+    span.topBanner-image,
+    span.bottomBanner-image {
+        display: none;
+    }
+
+    .pBlock-100 {
+        padding-block: 20px;
+    }
+
+    .pBlock-50 {
+        padding-block: 20px;
+    }
+
+    .footerLink-box h3 {
+        font-size: 18px;
+        margin-bottom: 20px;
+        padding-bottom: 10px;
+    }
+
+    .socialFooter-link ul {
+        gap: 0px 11px;
+    }
+
+    .footerLink-box {
+        width: 150px;
+    }
+
+    .destinationPlace-cover {
+        position: relative;
+    }
+
+    span.destinationPlace-name {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        z-index: 9;
+        transform: translate(-50%, -50%);
+        background-color: transparent;
+        border: 0px;
+        color: #fff;
+        margin-bottom: 0px;
+        font-weight: 700;
+        height: fit-content;
+        font-size: 17px;
+    }
+    span.destinationPlace-name:hover{
+        background-color: transparent;
+        border: 0px;
+    }
+    
+
+    /* Sign Up Page Responsive Css */
+    .signUp-contentCover {
+        border-radius: 20px;
+        width: 65%;
+        margin-block: 50px;
+        max-width: 65%;
+        margin-inline: auto;
+    }
+
+    input.form-control,
+    input.form-control::placeholder {
+        font-size: 15px;
+    }
+
+    .form-group label {
+        font-size: 12px;
+        border-radius: 20px;
+        padding: 6px 10px;
+        margin-bottom: 7px;
+    }
+
+    /* Thank You Page Responsive Css */
+    a.customLogo img {
+        height: 54px;
+    }
+
+    a.customLogo {
+        margin-bottom: 20px;
+    }
+
+    .thankyou-containerBox h1 {
+        font-size: 24px;
+        margin-bottom: 8px;
+    }
+
+    span.rightTick {
+        width: 80px;
+        height: 80px;
+        margin-bottom: 20px;
+    }
+
+    .thankyou-containerBox p {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+
+    section.thankYou-wrapper::after {
+        width: 170px;
+        height: 175px;
+        top: 0px;
+        right: 0px;
+    }
+
+    section.thankYou-wrapper::before {
+        width: 200px;
+        height: 196px;
+        bottom: 0px;
+        left: 0px;
+    }
+
+    a.customBack {
+        border-radius: 30px;
+        padding: 10px 55px;
+        font-size: 16px;
+    }
+      /* log in Page Responsive Css */
+      .loginWrapper {
+        height: calc(100% - 71px);
+    }
+}
+
+@media screen and (max-width:676px) {
+    .topFooter-contentBox {
+        display: flex;
+        flex-direction: column;
+        gap: 25px 0px;
+    }
+
+    .footerLink-box {
+        width: 200px;
+    }
+
+    .footerLink-boxContainer {
+        display: flex;
+        gap: 0px 20px;
+        height: 100%;
+        align-items: end;
+        justify-content: space-between;
+    }
+
+    a.footerlogo {
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+
+    .footerLogo-container p {
+        font-size: 16px;
+        line-height: 23px;
+        margin-bottom: 30px;
+    }
+
+    /* Sign up page Responsive Css */
+    button.customForm-btn {
+        font-size: 18px;
+        height: 46px;
+        border-radius: 30px;
+        margin-bottom: 15px;
+    }
+
+    .signUp-contentCover {
+        border-radius: 20px;
+        margin-block: 50px;
+        margin-inline: auto;
+        min-width: 320px;
+    }
+
+    .signUp-contentBox {
+        padding: 38px 24px;
+    }
+
+    .signUp-contentBox p {
+        font-size: 16px;
+        line-height: 23px;
+    }
+
+    /* Thank You Page Responsive Css */
+    a.customLogo img {
+        height: 50px;
+    }
+    .thankyou-containerBox h1 {
+        font-size: 22px;
+        margin-bottom: 8px;
+    }
+    span.rightTick {
+        width: 75px;
+        height: 75px;
+        margin-bottom: 20px;
+    }
+    a.customBack {
+        border-radius: 30px;
+        padding: 10px 40px;
+        font-size: 15px;
+    }
+
+}
+
+@media screen and (max-width:575px) {
+    .navbar {
+        padding-block: 10px;
+    }
+
+    .navbarLink-list>li>a.nav-link {
+        font-size: 11px;
+        gap: 0px 12px;
+        padding: 7px 12px;
+        border-radius: 20px;
+    }
+
+    section.mobNav {
+        display: block !important;
+        padding-top: 25px;
+    }
+
+    .navbarLink-list {
+        display: flex;
+        align-items: center;
+        gap: 0px 10px;
+    }
+    .contactUs-btn {
+        position: fixed;
+        width: 100%;
+        bottom: 0px;
+        z-index: 999;
+        left: 50%;
+        transform: translateX(-50%);
+        text-align: center;
+        justify-content: center;
+        border-radius: 10px 10px 0px 0px;
+    }
+
+    a.logo img,
+    a.footerlogo img {
+        height: 35px;
+    }
+
+    .collapseMenu-active {
+        top: 59px;
+    }
+
+    .pBlock {
+        padding-block: 30px;
+    }
+
+    .banner-heading h1 {
+        font-size: 21px;
+        line-height: 28px;
+        margin-bottom: 15px;
+    }
+
+    .banner-heading p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 20px;
+    }
+
+    .bannerCover {
+        height: 300px;
+    }
+
+    .service-wrapper::after {
+        width: 300px;
+        height: 265px;
+        top: -11%;
+        right: 0px;
+        z-index: -1;
+    }
+
+    .section-heading h2 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .serviceWrapper-cover ul li {
+        width: 50%;
+        padding-inline: 9px;
+    }
+
+    .dropDown-btn {
+        border-radius: 20px;
+        gap: 0px 13px;
+        padding: 0px 13px;
+        font-size: 14px;
+        height: 35px;
+    }
+
+    .dropDown-btn::after {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        font-size: 11px;
+    }
+
+    .destinationWrapper-cover ul li {
+        width: 50%;
+        flex: 0 0 auto;
+        padding-inline: 10px;
+    }
+
+    .destinationsCover {
+        display: flex;
+        flex-direction: column;
+        gap: 15px 0px;
+    }
+
+    .section-heading p {
+        font-size: 13px;
+        line-height: 18px;
+        margin-bottom: 24px;
+    }
+
+    span.destinationPlace-name {
+        border-radius: 20px;
+        padding-block: 8px;
+        font-size: 14px;
+        margin-bottom: 12px;
+    }
+
+    .holidayBanner-cover {
+        height: 220px;
+        border-radius: 15px;
+        z-index: 9;
+    }
+
+    .destinationPlac-images img,
+    .destinationPlac-images {
+        width: 100%;
+        border-radius: 15px;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .destinationPlace-box {
+        border-radius: 15px;
+        height: 240px;
+    }
+
+    .section-heading span {
+        border-radius: 20px;
+        padding: 8px 15px;
+        margin-bottom: 8px;
+        font-size: 16px;
+    }
+
+    .footerLink-boxContainer {
+        gap: 0px;
+        margin-inline: -10px;
+    }
+
+    .footerLink-box {
+        width: 50%;
+        flex: 0 0 auto;
+        padding-inline: 10px;
+    }
+
+    a.footerLink {
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+    .footerLink-box ul li+li {
+        margin-top: 5px;
+    }
+
+    .banner-heading {
+        padding-inline: 20px;
+        padding-block: 30px;
+    }
+
+    .banner-heading h1 br {
+        display: none;
+    }
+
+    .dropdownBox {
+        width: fit-content;
+        flex: 0 0 auto;
+    }
+
+    .signUp-contentBox {
+        padding: 39px 20px;
+    }
+
+    .signUp-contentBox::before {
+        width: 60px;
+        height: 60px;
+        top: -30px;
+        right: -30px;
+    }
+
+    .signUp-contentCover {
+        border-radius: 20px;
+        margin-block: 50px;
+        margin-inline: auto;
+        min-width: 300px;
+    }
+
+    .signUp-contentBox::before {
+        width: 60px;
+        height: 60px;
+        top: -20px;
+        right: -18px;
+    }
+    /* Thank You Page Responsive Css */
+    section.thankYou-wrapper::after {
+        width: 125px;
+        height: 130px;
+        top: 0px;
+        right: 0px;
+    }
+    section.thankYou-wrapper::before {
+        width: 160px;
+        height: 159px;
+        bottom: 0px;
+        left: 0px;
+    }
+    a.customLogo img {
+        height: 45px;
+    }
+    .thankyou-containerBox h1 {
+        font-size: 20px;
+        margin-bottom: 8px;
+    }
+    span.rightTick {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 20px;
+    }
+    a.customBack {
+        border-radius: 30px;
+        padding: 8px 35px;
+        font-size: 14px;
+    }
+     /* log in Page Responsive Css */
+     .loginWrapper {
+        height: calc(100% - 59px);
+    }
+    .loginWrapper-cover {
+        max-width: 90%;
+        margin-inline: auto;
+        height: 100%;
+    }
+}
+
+@media screen and (max-width:475px) {
+    .banner-heading h1 {
+        font-size: 19px;
+        line-height: 26px;
+        margin-bottom: 15px;
+    }
+
+    .navbarLink-list>li>a.nav-link::after {
+        width: fit-content;
+        height: fit-content;
+        color: #FBD56C;
+        background-color: transparent;
+        font-size: 10px;
+    }
+
+    .navbarLink-list>li>a.nav-link {
+        font-size: 10px;
+        gap: 0px 5px;
+        padding: 7px 6px;
+        border-radius: 20px;
+    }
+
+    .destinationPlace-cover {
+        position: relative;
+    }
+
+    .bannerCover {
+        height: 275px;
+    }
+
+    .banner-heading {
+        padding-inline: 15px;
+        padding-block: 25px;
+    }
+
+    .serviceWrapper-cover ul li {
+        width: 100%;
+        padding-inline: 9px;
+    }
+
+    .destinationWrapper-cover ul li {
+        width: 100%;
+        flex: 0 0 auto;
+        padding-inline: 10px;
+    }
+
+    .testimonialCarousel-box {
+        border-radius: 20px;
+        padding: 20px 20px;
+        display: flex;
+        max-width: 93%;
+        margin-inline: auto;
+        position: relative;
+        justify-content: end;
+        box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.25);
+    }
+
+    .carousel-next-btn {
+        right: 0px;
+        transform: translateY(-50%) rotate(180deg) !important;
+    }
+
+    .carousel-prev-btn {
+        left: 0px;
+    }
+
+    .carousel {
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        padding-block: 10px;
+    }
+
+    a.socialLink {
+        width: 30px;
+        height: 30px;
+        color: #DF6951;
+        font-size: 16px;
+    }
+
+    .formContainer .customCol-6 {
+        width: 100%;
+    }
+
+    .formContainer .customCol-6+.customCol-6 .form-group {
+        margin-top: 20px;
+    }
+
+    span.checkBox-content {
+        color: #595959;
+        font-family: "Inter", sans-serif;
+        font-size: 13px;
+        line-height: normal;
+        display: inline-block;
+        width: calc(100% - 15px);
+        margin-left: 7px;
+    }
+
+    input.formCheck-boxControl {
+        width: 15px;
+        height: 15px;
+    }
+
+    .formCheck-box {
+        margin-bottom: 30px;
+    }
+
+    button.customForm-btn {
+        font-size: 16px;
+        height: 43px;
+        border-radius: 30px;
+        margin-bottom: 14px;
+    }
+
+    span.loginAccount {
+        gap: 0px 5px;
+        font-size: 14px;
+        margin-bottom: 26px;
+    }
+
+    .signUp-OptionBox p {
+        font-size: 14px;
+        margin-bottom: 25px;
+        z-index: 9;
+    }
+    p#loginError {
+        font-size: 19px;
+    }
+
+}
